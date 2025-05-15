@@ -1,0 +1,6 @@
+El valor es:200.0 [USD] corresponde al valor final de =>>>>>> 225966.0 [ARS][2025-05-15T14:25:53.614228700]
+El valor es:300.0 [USD] corresponde al valor final de =>>>>>> 1265216.04 [COP][2025-05-15T14:25:58.396201200]
+El valor es:600.0 [USD] corresponde al valor final de =>>>>>> 3366.3599999999997 [BRL][2025-05-15T14:26:07.069705700]
+El valor es:500.0 [USD] corresponde al valor final de =>>>>>> 564915.0 [ARS][2025-05-15T16:36:38.641612800]
+El valor es:300.0 [USD] corresponde al valor final de =>>>>>> 1683.1799999999998 [BRL][2025-05-15T16:36:44.797929700]
+El valor es:6000.0 [PEN] corresponde al valor final de =>>>>>> 1459.2 [EUR][2025-05-15T17:08:28.357183400]
